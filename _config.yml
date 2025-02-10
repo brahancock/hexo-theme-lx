@@ -30,10 +30,10 @@ menu:
   pages:  #the page created by yourself
     enable: true
     links:
-      Guestbook: guestbook/
-      About: about/
+      # Guestbook: guestbook/
+      # About: about/
   friends:
-    enable: true
+    enable: false
     links:
       Theme-Lx: https://lx.js.org
 
@@ -45,14 +45,14 @@ menu:
 #   icon: fontawesome icon
 #   link: url
 social:
-  enable: false
+  enable: true
   links:
-  #  GitHub:
-  #    icon: github
-  #    link: https://github.com/yourname
-  #  Email:
-  #    icon: envelope
-  #    link: mailto:your@email.address
+   GitHub:
+     icon: github
+     link: https://github.com/brahancock
+   Email:
+     icon: envelope
+     link: mailto:brahancock@gmail.com
   #  Weibo:
   #    icon: weibo
   #    link: https://weibo.com/yourname
@@ -78,7 +78,7 @@ local_search:
 footer:
 
 # Analytics
-google_analytics: #Google ID
+google_analytics: G-EPP6FG18E2
 baidu_analytics: #Baidu ID
 
 # Lx use valine as comment system
