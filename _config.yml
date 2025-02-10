@@ -13,13 +13,13 @@ theme_color: "#58b77a"
 personal_des: Hello, World!
 
 # avatar
-avatar: https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/avatar.min.jpeg
+avatar: https://i.vimeocdn.com/portrait/110094905_100x100?sig=c6c7c45d2cad2d578bf33a4cb760e125ca052901e211572f011b8452fc1d8969&v=1
 
 ###The options below are images information
 # Home cover
-cover: https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/cover.min.jpeg
+cover: https://w.wallhaven.cc/full/4o/wallhaven-4ok7gp.jpg
 # page cover
-postcover: https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/post_cover.min.jpeg
+postcover: https://w.wallhaven.cc/full/4o/wallhaven-4ok7gp.jpg
 # the cover of newer or older post
 pre_post: https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/footer-r.min.jpeg
 nex_post: https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/footer-l.min.jpeg
@@ -30,10 +30,10 @@ menu:
   pages:  #the page created by yourself
     enable: true
     links:
-      Guestbook: guestbook/
-      About: about/
+      # Guestbook: guestbook/
+      # About: about/
   friends:
-    enable: true
+    enable: false
     links:
       Theme-Lx: https://lx.js.org
 
@@ -45,14 +45,14 @@ menu:
 #   icon: fontawesome icon
 #   link: url
 social:
-  enable: false
+  enable: true
   links:
-  #  GitHub:
-  #    icon: github
-  #    link: https://github.com/yourname
-  #  Email:
-  #    icon: envelope
-  #    link: mailto:your@email.address
+   GitHub:
+     icon: github
+     link: https://github.com/brahancock
+   Email:
+     icon: envelope
+     link: mailto:brahancock@gmail.com
   #  Weibo:
   #    icon: weibo
   #    link: https://weibo.com/yourname
@@ -78,7 +78,7 @@ local_search:
 footer:
 
 # Analytics
-google_analytics: #Google ID
+google_analytics: G-EPP6FG18E2
 baidu_analytics: #Baidu ID
 
 # Lx use valine as comment system
