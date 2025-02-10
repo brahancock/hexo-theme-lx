@@ -10,16 +10,16 @@ favicon: favicon.ico
 theme_color: "#58b77a"
 
 # personal information
-personal_des: Hello, World!
+personal_des: tactical, awesome
 
 # avatar
-avatar: https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/avatar.min.jpeg
+avatar: https://i.vimeocdn.com/portrait/110094905_100x100?sig=c6c7c45d2cad2d578bf33a4cb760e125ca052901e211572f011b8452fc1d8969&v=1
 
 ###The options below are images information
 # Home cover
-cover: https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/cover.min.jpeg
+cover: https://w.wallhaven.cc/full/4o/wallhaven-4ok7gp.jpg
 # page cover
-postcover: https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/post_cover.min.jpeg
+postcover: https://w.wallhaven.cc/full/4o/wallhaven-4ok7gp.jpg
 # the cover of newer or older post
 pre_post: https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/footer-r.min.jpeg
 nex_post: https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/footer-l.min.jpeg
