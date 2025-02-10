@@ -4,7 +4,7 @@
 version: 0.4.4
 
 # favicon
-favicon: favicon.ico
+favicon: dog-96.png
 
 # Theme-color for Android Chrome
 theme_color: "#58b77a"
