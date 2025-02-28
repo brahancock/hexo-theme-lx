@@ -4,7 +4,7 @@
 version: 0.4.4
 
 # favicon
-favicon: dog-96.png
+favicon: site-favicon.ico
 
 # Theme-color for Android Chrome
 theme_color: "#58b77a"
@@ -17,12 +17,12 @@ avatar: https://i.vimeocdn.com/portrait/110094905_100x100?sig=c6c7c45d2cad2d578b
 
 ###The options below are images information
 # Home cover
-cover: https://w.wallhaven.cc/full/4o/wallhaven-4ok7gp.jpg
+cover: https://w.wallhaven.cc/full/qz/wallhaven-qz1oql.png
 # page cover
-postcover: https://w.wallhaven.cc/full/4o/wallhaven-4ok7gp.jpg
+postcover: https://w.wallhaven.cc/full/qz/wallhaven-qz1oql.png
 # the cover of newer or older post
-pre_post: https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/footer-r.min.jpeg
-nex_post: https://cdn.jsdelivr.net/npm/theme-lx@0.4.4/source/dist/images/footer-l.min.jpeg
+pre_post: https://w.wallhaven.cc/full/qz/wallhaven-qz1oql.png
+nex_post: https://w.wallhaven.cc/full/qz/wallhaven-qz1oql.png
 
 # menu content
 menu:
@@ -31,7 +31,7 @@ menu:
     enable: false
     links:
       # Guestbook: guestbook/
-      # About: about/
+      About: about
   friends:
     enable: false
     links:
