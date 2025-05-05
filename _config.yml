@@ -28,10 +28,10 @@ nex_post: https://w.wallhaven.cc/full/qz/wallhaven-qz1oql.png
 menu:
   category: false #category
   pages:  #the page created by yourself
-    enable: false
+    enable: true
     links:
-      # Guestbook: guestbook/
-      About: about
+      About: about/
+      Ad: plug/
   friends:
     enable: false
     links:
