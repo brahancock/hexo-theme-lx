@@ -30,7 +30,6 @@ menu:
   pages:  #the page created by yourself
     enable: true
     links:
-      About: about/
       Ad: plug/
   friends:
     enable: false
